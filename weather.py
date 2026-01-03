@@ -74,6 +74,6 @@ def main():
             
         except (KeyError, IndexError):
             print("Error parsing the weather data.")
-
+            
 if __name__ == "__main__":
-    main()
+    main()   
